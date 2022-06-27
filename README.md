@@ -8,8 +8,8 @@ Learn how to use ethers.js from these examples
 - [Node.js](https://nodejs.org/en/) (To run our scripts and install ethers.js)
 - [Infura](https://infura.io/) (Node provider)
 - [faucets](https://faucets.chain.link/) (for getting test ether)
-- [kovan testnet network] (test ether provider)
-- [MetaMask] (for creating test account)
+- kovan testnet network (test ether provider)
+- MetaMask (for creating account)
 ## Setting Up
 ### 1. Clone/Download the Repository
 
